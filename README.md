@@ -1,6 +1,6 @@
 # Banking Management System
 
-A desktop banking management system built with Python and a MySQL-ready backend for interviews and portfolio projects.
+A desktop banking management system built with Python and a MySQL-ready backend for  portfolio projects.
 
 ## Features
 - Create customer accounts
